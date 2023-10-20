@@ -809,6 +809,7 @@ void initialize_slaves(){
 	int x, y;
 	int z;
 	int w;
+	int t;
 
 	for(int j=cluster_info[clusterID].yi; j<=cluster_info[clusterID].yf; j++) {
 
