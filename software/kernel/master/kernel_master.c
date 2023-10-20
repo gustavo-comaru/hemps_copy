@@ -810,6 +810,8 @@ void initialize_slaves(){
 	int k0rand = 0;
 	init_processors();
 
+	int x = 10;
+
 	//init_shapes();
 
 	for(int j=cluster_info[clusterID].yi; j<=cluster_info[clusterID].yf; j++) {
