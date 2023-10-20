@@ -81,6 +81,7 @@ int main()
 		Echo(itoa(GetTick()));
 		Echo(itoa(GetTick()));
 		Echo(itoa(GetTick()));
+		Echo(itoa(GetTick()));
 	}
 
 
